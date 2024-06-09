@@ -1,7 +1,7 @@
-{{CLASIFICACION DE LA CATEGORIA DE ENTORNO DE CALIAD DE VIDA}}
+CLASIFICACION DE LA CATEGORIA DE ENTORNO DE CALIAD DE VIDA
 ==============================
 
-{{Objetivo:
+Objetivo:
 
 Utilizando técnicas de machine learning, este proyecto tiene como objetivo desarrollar un modelo capaz de clasificar La Categoria del Entorno de Calidad de Vida basándose en las siguientes variables: espacios verdes, transporte público, industrias, la existencia de cavas, y el nivel de riesgo de inundación. 
 La combinación de estas variables da como resultado la clasificación del Índice de Entorno.
@@ -35,7 +35,7 @@ Alcance (qué mide el índice):
 El Índice mide el nivel de condiciones (vinculadas al entorno) de bienestar 
 general que ofrece el Estado a la población, en un radio censal determinado.
 
-}}
+
 
 Project Organization
 ------------
