@@ -7,10 +7,13 @@ Utilizando técnicas de machine learning, este proyecto tiene como objetivo desa
 La combinación de estas variables da como resultado la clasificación del Índice de Entorno.
 
 Contexto del Problema:
+
 La Categoria del Entorno de Calidad de Vida es una medida fundamental para evaluar el bienestar de la población en áreas urbanas. Mejorar la calidad de vida no solo beneficia a sus habitantes directos, sino que también contribuye al desarrollo socioeconómico y ambiental más amplio de la zona
 
 Interrogantes de estudio:
+
 Algunas de las preguntas que intenta responder este trabajo son:
+
 1. ¿Con qué precisión puede un modelo de aprendizaje automático 
 clasificar el Índice de Entorno de Calidad de Vida utilizando las variables 
 seleccionadas?
