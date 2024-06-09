@@ -22,6 +22,7 @@ seleccionadas?
 mejoras para aumentar la calidad de vida?
 
 Descripción del Índice de Entorno:
+
 Es un índice en el que se incorporan indicadores, del ambiente que rodea a la 
 población, vinculados a servicios públicos, eventos climáticos o intervenciones 
 humanas, que aportan, positiva o negativamente, a la calidad de vida. Estos 
@@ -29,12 +30,14 @@ indicadores son: espacios verdes públicos, cavas, transporte público, industri
 y riesgo por inundación.
 
 Relevancia:
+
 Este índice apunta a relevar las características de aquella porción del ambiente 
 que interactúa significativamente con la población en su lugar de residencia, 
 incidiendo en su calidad de vida. Para ello evalúa una serie de elementos (de 
 orden social, productivo, cultural y físico natural) presentes en el territorio.
 
 Alcance (qué mide el índice):
+
 El Índice mide el nivel de condiciones (vinculadas al entorno) de bienestar 
 general que ofrece el Estado a la población, en un radio censal determinado.
 
