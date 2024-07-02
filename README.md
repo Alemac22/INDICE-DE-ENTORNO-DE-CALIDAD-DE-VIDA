@@ -2,16 +2,16 @@ CLASIFICACION DE LA CATEGORIA DE ENTORNO DE CALIDAD DE VIDA
 ==============================
 
 
-Objetivo:
+**Objetivo:**
 
 Utilizando técnicas de machine learning, este proyecto tiene como objetivo desarrollar un modelo capaz de clasificar La Categoria del Entorno de Calidad de Vida basándose en las siguientes variables: espacios verdes, transporte público, industrias, la existencia de cavas, y el nivel de riesgo de inundación. 
 La combinación de estas variables da como resultado la clasificación del Índice de Entorno.
 
-Contexto del Problema:
+**Contexto del Problema:**
 
 La Categoria del Entorno de Calidad de Vida es una medida fundamental para evaluar el bienestar de la población en áreas urbanas. Mejorar la calidad de vida no solo beneficia a sus habitantes directos, sino que también contribuye al desarrollo socioeconómico y ambiental más amplio de la zona
 
-Interrogantes de estudio:
+**Interrogantes de estudio:**
 
 Algunas de las preguntas que intenta responder este trabajo son:
 
@@ -22,7 +22,7 @@ seleccionadas?
 3. ¿Puede el modelo identificar áreas urbanas específicas que necesitan 
 mejoras para aumentar la calidad de vida?
 
-Descripción del Índice de Entorno:
+**Descripción del Índice de Entorno:**
 
 Es un índice en el que se incorporan indicadores, del ambiente que rodea a la 
 población, vinculados a servicios públicos, eventos climáticos o intervenciones 
@@ -30,20 +30,20 @@ humanas, que aportan, positiva o negativamente, a la calidad de vida. Estos
 indicadores son: espacios verdes públicos, cavas, transporte público, industrias 
 y riesgo por inundación.
 
-Relevancia:
+**Relevancia:**
 
 Este índice apunta a relevar las características de aquella porción del ambiente 
 que interactúa significativamente con la población en su lugar de residencia, 
 incidiendo en su calidad de vida. Para ello evalúa una serie de elementos (de 
 orden social, productivo, cultural y físico natural) presentes en el territorio.
 
-Alcance (qué mide el índice):
+**Alcance (qué mide el índice):**
 
 El Índice mide el nivel de condiciones (vinculadas al entorno) de bienestar 
 general que ofrece el Estado a la población, en un radio censal determinado.
 
 
-Machine Learning for Classifying Quality of Life Environment Index
+**Machine Learning for Classifying Quality of Life Environment Index**
 	
 This research paper analyzes the development of a machine learning system that is capable of classifying the Quality of Life Environment Index based on variables such as green spaces, public transportation, industries, the presence of quarries, and flood risk levels. This is useful to identify places that need to increase their Quality of Life. The aim of this research is to assess how accurately the model could classify the environment index and which variables would have the most significant impact. Methods include data collection, preprocessing, and the implementation of various machine learning algorithms, for example Linear Regression, Logistic Regression and Decision Tree. The data is processed by this algorithms to train the model, which classifies the environment index. The model is adjusted to improve accuracy. The results demostrate the model´s effectiveness in classifying the Quality of Life Environment Index, identifying significant variables such as green spaces and flood risk. Finally, the study suggests that machine learning models can effectively predict urban areas' quality of life with an accuracy of 98%, providing valuable insights for environmental development. This predictions can be used in real world, to benefit urban planification. 
 
