@@ -1,17 +1,17 @@
 
 ![Politecnico](https://github.com/Alemac22/INDICE-DE-ENTORNO-DE-CALIDAD-DE-VIDA/blob/main/reports/figures/Politecnico.jpg)
 
-[-] **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.**
+ **Carrera:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
-[-] **Institucion:** Politécnico Malvinas Argentinas
+ **Institucion:** Politécnico Malvinas Argentinas
 
-[-] **Materia:** Aprendizaje Automático / Machine Learning
+ **Materia:** Aprendizaje Automático
 
-[-] **Proyecto Aprendizaje Automatico:** Indice de Entorno de Calidad de Vida
+ **Proyecto Aprendizaje Automatico:** Indice de Entorno de Calidad de Vida
 
-[-] **Alumno:** Alejandro Maclean
+ **Alumno:** Alejandro Maclean
 
-[-] **Profesor de la Catedra:** Martin Mirabete
+ **Profesor de la Catedra:** Martin Mirabete
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
