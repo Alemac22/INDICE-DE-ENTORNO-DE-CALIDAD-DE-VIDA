@@ -1,3 +1,7 @@
+
+![Politecnico](https://github.com/Alemac22/INDICE-DE-ENTORNO-DE-CALIDAD-DE-VIDA/blob/main/reports/figures/Politecnico.jpg)
+
+
 CLASIFICACION DE LA CATEGORIA DE ENTORNO DE CALIDAD DE VIDA
 ==============================
 
