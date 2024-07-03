@@ -1,6 +1,25 @@
 
 ![Politecnico](https://github.com/Alemac22/INDICE-DE-ENTORNO-DE-CALIDAD-DE-VIDA/blob/main/reports/figures/Politecnico.jpg)
 
+[-] **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.**
+
+[-] **Institucion:** Politécnico Malvinas Argentinas
+
+[-] **Materia:** Aprendizaje Automático / Machine Learning
+
+[-] **Proyecto Aprendizaje Automatico:** Indice de Entorno de Calidad de Vida
+
+[-] **Alumno:** Alejandro Maclean
+
+[-] **Profesor de la Catedra:** Martin Mirabete
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+  </a>
+</p>
+
 
 CLASIFICACION DE LA CATEGORIA DE ENTORNO DE CALIDAD DE VIDA
 ==============================
