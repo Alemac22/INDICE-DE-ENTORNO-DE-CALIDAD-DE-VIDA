@@ -70,7 +70,8 @@ general que ofrece el Estado a la población, en un radio censal determinado.
 	
 This research paper analyzes the development of a machine learning system that is capable of classifying the Quality of Life Environment Index based on variables such as green spaces, public transportation, industries, the presence of quarries, and flood risk levels. This is useful to identify places that need to increase their Quality of Life. The aim of this research is to assess how accurately the model could classify the environment index and which variables would have the most significant impact. Methods include data collection, preprocessing, and the implementation of various machine learning algorithms, for example Linear Regression, Logistic Regression and Decision Tree. The data is processed by this algorithms to train the model, which classifies the environment index. The model is adjusted to improve accuracy. The results demostrate the model´s effectiveness in classifying the Quality of Life Environment Index, identifying significant variables such as green spaces and flood risk. Finally, the study suggests that machine learning models can effectively predict urban areas' quality of life with an accuracy of 98%, providing valuable insights for environmental development. This predictions can be used in real world, to benefit urban planification. 
 
-**Video Presentacion:**
+**Video Presentacion:** ![Politecnico](https://github.com/Alemac22/INDICE-DE-ENTORNO-DE-CALIDAD-DE-VIDA/blob/main/reports/figures/Politecnico.jpg)
+
 
 
 Project Organization
